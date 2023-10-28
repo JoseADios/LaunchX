@@ -9,9 +9,8 @@
 - [Pag. hosteada](https://pasteleriadulce.netlify.app/)
 
 ### 03 - CSS
-- En proceso
 - [Caso Vaccination](https://github.com/JoseAntLX/LaunchX/tree/master/Frontend/03%20-%20CSS)
-- [Pag. hosteada]([https://pasteleriadulce.netlify.app/](https://vaccination-joseantlx.netlify.app/)https://vaccination-joseantlx.netlify.app/)
+- [Pag. hosteada](https://vaccination-joseantlx.netlify.app/)
 
 ### 04 - JavaScript
 - [Caso Pokedex](https://github.com/JoseAntLX/LaunchX/tree/master/Frontend/04%20-%20JS/Pokedex)
